@@ -92,3 +92,19 @@ This repository includes:
 ## Outcome
 
 Created an AI-powered SEO content system that can be reused for different businesses and SEO projects.
+
+## Screenshots
+
+### SEO Pillar Blog
+
+![Pillar Blog](screenshots/pillar-blog-top.png)
+
+
+### Keyword Strategy
+
+![Keyword Strategy](screenshots/keyword-strategy.png)
+
+
+### Content Cluster
+
+![Content Cluster](screenshots/content-cluster.png)
